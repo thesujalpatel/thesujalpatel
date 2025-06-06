@@ -4,18 +4,13 @@
 💻 Full Stack Developer | MERN Stack Enthusiast | AI/ML Explorer  
 🌱 Currently building smart, intuitive, and human-first digital experiences
 
-
-
 ## 🚀 About Me
 
 > “I'm not just chasing bugs I’m chasing brilliance. Code is my compass, curiosity is my fuel.”
 
 I’m Sujal, a developer who turns caffeine into code and ideas into impact. From full-stack applications to AI experiments, I craft tech that speaks human. I believe the best UIs are silent storytellers and I love making them whisper elegance.
 
-
-
 ## 🛠️ Tech Stack
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
@@ -115,23 +110,19 @@ I’m Sujal, a developer who turns caffeine into code and ideas into impact. Fro
 
 ###
 
-
-
-
 ## 📌 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| **Verdicta** | AI-powered LegalTech platform for Q&A, law discovery & trivia. |
-| **Taste Forge** | Turns your ingredients into recipes with AI. Sleek UI + Light/Dark mode. |
-| **Chal Chitra** | Minimal note-taking app with real-time sync & themes. |
-| **Number Noodle** | Compiler design concepts made visual & interactive. |
-| **Case Management System** | Multi-role platform for handling legal cases with analytics. |
-| **Crypto (JS)** | Smart Discord bot with voice channel interaction. |
-| **Crypto Python** | Python version of the Crypto bot with a clean backend. |
-| **India’s Gems** | Cultural showcase of Indian heritage. |
-
-
+| Project                    | Description                                                              |
+| -------------------------- | ------------------------------------------------------------------------ |
+| **Gitgenix**               | GitHub Contribution Art Creator                                          |
+| **Verdicta**               | AI-powered LegalTech platform for Q&A, law discovery & trivia.           |
+| **Taste Forge**            | Turns your ingredients into recipes with AI. Sleek UI + Light/Dark mode. |
+| **Chal Chitra**            | Minimal note-taking app with real-time sync & themes.                    |
+| **Number Noodle**          | Compiler design concepts made visual & interactive.                      |
+| **Case Management System** | Multi-role platform for handling legal cases with analytics.             |
+| **Crypto (JS)**            | Smart Discord bot with voice channel interaction.                        |
+| **Crypto Python**          | Python version of the Crypto bot with a clean backend.                   |
+| **India’s Gems**           | Cultural showcase of Indian heritage.                                    |
 
 ## 🌍 Connect with Me
 
@@ -140,9 +131,8 @@ I’m Sujal, a developer who turns caffeine into code and ideas into impact. Fro
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?&style=flat&logo=twitter&logoColor=white)](https://x.com/SujalPatel24)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_thesujalpatel_)
 
-
-
 ## 📊 GitHub Stats
+
 <br clear="both">
 
 <div align="center">
@@ -155,15 +145,11 @@ I’m Sujal, a developer who turns caffeine into code and ideas into impact. Fro
 
 ###
 
-
-
 ## ✨ Fun Bits
 
 - 🚀 Can debug faster than I can find my charger.
 - 💡 Known to design entire UIs in my head before sleep.
 - 🎨 I believe “minimal” doesn’t mean boring it means powerful.
 - 🧠 Can write code and break it in the same breath (and fix it with coffee).
-
-
 
 > _"Code is my art. GitHub is my gallery."_
