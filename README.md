@@ -112,17 +112,16 @@ I’m Sujal, a developer who turns caffeine into code and ideas into impact. Fro
 
 ## 📌 Featured Projects
 
-| 🚀 **Project**         | 📝 **What It Does**                                                     |                       💻 **Code**                        |               🌐 **Live**                |
-| :--------------------- | :---------------------------------------------------------------------- | :------------------------------------------------------: | :--------------------------------------: |
-| **🎨 Gitgenix**        | GitHub Contribution Art Creator                                         |    [Repo](https://github.com/thesujalpatel/gitgenix)     |   [Demo](https://gitgenix.netlify.app)    |
-| **⚖️ Verdicta**        | AI-powered LegalTech platform for Q&A, law discovery & trivia           |    [Repo](https://github.com/thesujalpatel/verdicta)     |   [Demo](https://verdicta.netlify.app)    |
-| **🍳 Taste Forge**     | Turns your ingredients into recipes with AI. Sleek UI + Light/Dark mode |   [Repo](https://github.com/thesujalpatel/taste-forge)   |  [Demo](https://taste-forge.netlify.app)  |
-| **📝 Chal Chitra**     | Minimal note-taking app with real-time sync & themes                    |   [Repo](https://github.com/thesujalpatel/chal-chitra)   |  [Demo](https://thesujalpatel.github.io/ChalChitra)  |
-| **🔢 Number Noodle**   | Compiler design concepts made visual & interactive                      |  [Repo](https://github.com/thesujalpatel/number-noodle)  | [Demo](https://thesujalpatel.github.io/NumberNoodle) |
-| **⚖️ Case Management** | Multi-role platform for handling legal cases with analytics             | [Repo](https://github.com/thesujalpatel/case-management) |  - |
-| **🤖 Crypto (JS)**     | Smart Discord bot with voice channel interaction                        |    [Repo](https://github.com/thesujalpatel/crypto-js)    |                    -                     |
-| **🐍 Crypto Python**   | Python version of the Crypto bot with a clean backend                   |  [Repo](https://github.com/thesujalpatel/crypto-python)  |                    -                     |
-| **🇮🇳 India's Gems**    | Cultural showcase of Indian heritage                                    |   [Repo](https://github.com/thesujalpatel/indias-gems)   |  [Demo](https://thesujalpatel.github.io/IndiasHeritageGems)  |
+| 🚀 **Project**         | 📝 **What It Does**                                                     |                          💻 **Code**                          |                        🌐 **Live**                         |
+| :--------------------- | :---------------------------------------------------------------------- | :-----------------------------------------------------------: | :--------------------------------------------------------: |
+| **🎨 Gitgenix**        | GitHub Contribution Art Creator                                         |       [Repo](https://github.com/thesujalpatel/Gitgenix)       |            [Demo](https://gitgenix.netlify.app)            |
+| **⚖️ Verdicta**        | AI-powered LegalTech platform for Q&A, law discovery & trivia           |       [Repo](https://github.com/thesujalpatel/Verdicta)       |            [Demo](https://verdicta.netlify.app)            |
+| **🍳 Taste Forge**     | Turns your ingredients into recipes with AI. Sleek UI + Light/Dark mode |      [Repo](https://github.com/thesujalpatel/TasteForge)      |          [Demo](https://taste-forge.netlify.app)           |
+| **📝 Chal Chitra**     | Minimal note-taking app with real-time sync & themes                    |      [Repo](https://github.com/thesujalpatel/ChalChitra)      |     [Demo](https://thesujalpatel.github.io/ChalChitra)     |
+| **🔢 Number Noodle**   | Compiler design concepts made visual & interactive                      |     [Repo](https://github.com/thesujalpatel/NumberNoodle)     |    [Demo](https://thesujalpatel.github.io/NumberNoodle)    |
+| **⚖️ Case Management** | Multi-role platform for handling legal cases with analytics             | [Repo](https://github.com/thesujalpatel/CaseManagementSystem) |                             -                              |
+| **🤖 Crypto (JS)**     | Smart Discord bot with voice channel interaction                        |        [Repo](https://github.com/thesujalpatel/Crypto)        |                             -                              |
+| **🇮🇳 India's Gems**    | Cultural showcase of Indian heritage                                    |  [Repo](https://github.com/thesujalpatel/IndiasHeritageGems)  | [Demo](https://thesujalpatel.github.io/IndiasHeritageGems) |
 
 <div align="center">
 
