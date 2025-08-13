@@ -19,8 +19,6 @@ I’m Sujal, a developer who turns caffeine into code and ideas into impact. Fro
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="25" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="25" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="25" alt="apple logo"  />
